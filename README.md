@@ -15,13 +15,14 @@ I'm a frontend developer with a passion for crafting **pixel-perfect UI and seam
 ### What I do
 - **Pixel Perfect Mastery**
 - **API Integration**
-- **React & Next.js**
 - **Refactoring & Debugging**
 - **Clean Code**
 - **Cross Functional Collaboration**
 - **Proactive Approach**
 - **Agile/Scrum**
 - **Knowledge Sharing**
+
+**For high quality code samples contact me**
 
 ### Get in touch
 - 📧 [ihesham.dev@gmail.com](mailto:ihesham.dev@gmail.com)
